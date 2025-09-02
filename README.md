@@ -2,7 +2,9 @@
 
 <p align="center">
   <img alt="login" src="./src/assets/loginpage.png">
-  <img alt="login" src="./src/assets/criar_conta.png">
+  <img alt="login" src="./src/assets/customer.png">
+   <img alt="login" src="./src/assets/admin.png">
+    <img alt="login" src="./src/assets/technician.png">
 </p>
 
 ## 💻 Projeto
