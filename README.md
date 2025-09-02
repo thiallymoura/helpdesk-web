@@ -2,6 +2,7 @@
 
 <p align="center">
   <img alt="login" src="./src/assets/loginpage.png">
+  <img alt="login" src="./src/assets/criar_conta.png">
 </p>
 
 ## 💻 Projeto
